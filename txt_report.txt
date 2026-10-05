@@ -1,0 +1,9 @@
+📁 ОТЧЁТ (с автопоиском)
+------------------------------
+✅ default_report.txt — найден
+✅ cli_report.txt — найден
+✅ my_simple_report.txt — найден
+✅ file_report.txt — найден
+✅ short_report.txt — найден
+✅ my_simple_report_test.txt — найден
+✅ wp_report.txt — найден
