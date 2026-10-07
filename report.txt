@@ -1,0 +1,15 @@
+📁 ОТЧЁТ (финальная надёжная версия)
+------------------------------
+✅ README.md — найден
+✅ mixed_report.txt — найден
+✅ default_report.txt — найден
+✅ cli_report.txt — найден
+✅ file_new_logic_txt.txt — найден
+✅ my_simple_report.txt — найден
+✅ txt_report.txt — найден
+✅ file_report.txt — найден
+✅ short_report.txt — найден
+✅ my_simple_report_test.txt — найден
+✅ txt_report1.txt — найден
+✅ correct_report.txt — найден
+✅ wp_report.txt — найден
